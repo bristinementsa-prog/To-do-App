@@ -1,11 +1,12 @@
 # To-do-App
-Eine einfache To-Do Liste, gebaut mit **HTML, CSS und Vanilla JavaScript
+Eine einfache To-Do Liste mit Checkboxes , gebaut mit HTML, CSS und Vanilla JavaScript
 ## 🚀 Funktionen
 - Neue To-Dos hinzufügen
 - Sauberes Design mit Material Design Lite
 - Vollständig client-seitig (kein Backend nötig)
  ## 🌐 Live-Demo
-
+ https://bristinementsa-prog.github.io/To-do-App/
+ 
 ## 🛠️ Technologien
 - HTML5
 - CSS3
